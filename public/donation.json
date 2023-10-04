@@ -1,135 +1,134 @@
 [
-    {
-      "id": 1,
-      "picture": "https://i.ibb.co/N231gvF/Health.png",
-      "title": "Clean water for children",
-      "category": "Health",
-      "category_bg": "#FFF",
-      "card_bg": "#D9E5FF",
-      "text_button_bg": "#0052FF",
-      "description": "This is a description for Product 1.",
-      "price": [{"currency": "usd", "value": 199.99}]
-    },
-    {
-      "id": 2,
-      "picture": "https://i.ibb.co/52RQrhY/Education.png",
-      "title": "Good education",
-      "category": "Education",
-      "category_bg": "#FFF",
-      "card_bg": "#FFE3E4",
-      "text_button_bg": "#FF444A",
-      "description": "This is a description for Product 2.",
-      "price": [{"currency": "usd", "value": 49.99}]
-    },
-    {
-      "id": 3,
-      "picture": "https://i.ibb.co/9bm0bXg/Clothing.png",
-      "title": "Used Clothing Drive",
-      "category": "Clothing",
-      "category_bg": "#FFF",
-      "card_bg": "#EBF6E2",
-      "text_button_bg": "#79C23F",
-      "description": "This is a description for Product 3.",
-      "price": [{"currency": "usd", "value": 299.99}]
-    },
-    {
-      "id": 4,
-      "picture": "https://i.ibb.co/Bwbmqwh/Food.png",
-      "title": "Better Food for Everyone",
-      "category": "Food",
-      "category_bg": "#FFF",
-      "card_bg": "#FEEAE3",
-      "text_button_bg": "#F87147",
-      "description": "This is a description for Product 4.",
-      "price": [{"currency": "usd", "value": 149.99}]
-    },
-    {
-      "id": 5,
-      "picture": "https://i.ibb.co/Bwbmqwh/Food.png",
-      "title": "Better Food for Everyone",
-      "category": "Food",
-      "category_bg": "#FFF",
-      "card_bg": "#FEEAE3",
-      "text_button_bg": "#F87147",
-      "description": "This is a description for Product 5.",
-      "price": [{"currency": "usd", "value": 39.99}]
-    },
-    {
-      "id": 6,
-      "picture": "https://i.ibb.co/9bm0bXg/Clothing.png",
-      "title": "Used Clothing Drive",
-      "category": "Clothing",
-      "category_bg": "#FFF",
-      "card_bg": "#EBF6E2",
-      "text_button_bg": "#79C23F",
-      "description": "This is a description for Product 6.",
-      "price": [{"currency": "usd", "value": 199.99}]
-    },
-    {
-      "id": 7,
-      "picture": "https://i.ibb.co/52RQrhY/Education.png",
-      "title": "Good education",
-      "category": "Education",
-      "category_bg": "#FFF",
-      "card_bg": "#FFE3E4",
-      "text_button_bg": "#FF444A",
-      "description": "This is a description for Product 7.",
-      "price": [{"currency": "usd", "value": 79.99}]
-    },
-    {
-      "id": 8,
-      "picture": "https://i.ibb.co/N231gvF/Health.png",
-      "title": "Clean water for children",
-      "category": "Health",
-      "category_bg": "#FFF",
-      "card_bg": "#D9E5FF",
-      "text_button_bg": "#0052FF",
-      "description": "This is a description for Product 8.",
-      "price": [{"currency": "usd", "value": 29.99}]
-    },
-    {
-      "id": 9,
-      "picture": "https://i.ibb.co/N231gvF/Health.png",
-      "title": "Clean water for children",
-      "category": "Health",
-      "category_bg": "#FFF",
-      "card_bg": "#D9E5FF",
-      "text_button_bg": "#0052FF",
-      "description": "This is a description for Product 9.",
-      "price": [{"currency": "usd", "value": 149.99}]
-    },
-    {
-      "id": 10,
-      "picture": "https://i.ibb.co/52RQrhY/Education.png",
-      "title": "Good education",
-      "category": "Education",
-      "category_bg": "#FFF",
-      "card_bg": "#FFE3E4",
-      "text_button_bg": "#FF444A",
-      "description": "This is a description for Product 10.",
-      "price": [{"currency": "usd", "value": 249.99}]
-    },
-    {
-      "id": 11,
-      "picture": "https://i.ibb.co/9bm0bXg/Clothing.png",
-      "title": "Used Clothing Drive",
-      "category": "Clothing",
-      "category_bg": "#FFF",
-      "card_bg": "#EBF6E2",
-      "text_button_bg": "#79C23F",
-      "description": "This is a description for Product 11.",
-      "price": [{"currency": "usd", "value": 59.99}]
-    },
-    {
-      "id": 12,
-      "picture": "https://i.ibb.co/Bwbmqwh/Food.png",
-      "title": "Better Food for Everyone",
-      "category": "Food",
-      "category_bg": "#FFF",
-      "card_bg": "#FEEAE3",
-      "text_button_bg": "#F87147",
-      "description": "This is a description for Product 12.",
-      "price": [{"currency": "usd", "value": 199.99}]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/N231gvF/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#92D1FF",
+    "card_bg": "#D9E5FF",
+    "text_button_bg": "#0052FF",
+    "description": "The word health refers to a state of complete emotional, mental, and physical well-being. Healthcare exists to help people stay well in these key areas of life.",
+    "price": 290
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/52RQrhY/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#FFC3C5",
+    "card_bg": "#FFE3E5",
+    "text_button_bg": "#FF444A",
+    "description": "Education is the process or act of learning or teaching, i.e., acquiring or imparting knowledge. It includes the preparation of children for mature life. The term’s meaning can vary, depending on its context, who says it, and where. However, in most cases, it also involves developing people’s powers of reasoning and judgment..",
+    "price": 250
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/9bm0bXg/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#D4ECC1",
+    "card_bg": "#EBF6E2",
+    "text_button_bg": "#79C23F",
+    "description": "Clothes or clothing are the collective terms used to describe the different types of materials worn on the body. It is a human characteristic to protect our bodies from cold, rain and other climate change or weather conditions.",
+    "price": 299
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/Bwbmqwh/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "#FDD2C4",
+    "card_bg": "#FEEAE2",
+    "text_button_bg": "#F87147",
+    "description": "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion. Plants, which convert solar energy to food by photosynthesis, are the primary food source.",
+    "price": 428
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/Bwbmqwh/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "#FDD2C4",
+    "card_bg": "#FEEAE2",
+    "text_button_bg": "#F87147",
+    "description": "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion. Plants, which convert solar energy to food by photosynthesis, are the primary food source.",
+    "price": 428
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/9bm0bXg/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#D4ECC1",
+    "card_bg": "#EBF6E2",
+    "text_button_bg": "#79C23F",
+    "description": "Clothes or clothing are the collective terms used to describe the different types of materials worn on the body. It is a human characteristic to protect our bodies from cold, rain and other climate change or weather conditions.",
+    "price": 299
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/52RQrhY/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#FFC3C5",
+    "card_bg": "#FFE3E5",
+    "text_button_bg": "#FF444A",
+    "description": "Education is the process or act of learning or teaching, i.e., acquiring or imparting knowledge. It includes the preparation of children for mature life. The term’s meaning can vary, depending on its context, who says it, and where. However, in most cases, it also involves developing people’s powers of reasoning and judgment.",
+    "price": 250
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/N231gvF/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#92D1FF",
+    "card_bg": "#D9E5FF",
+    "text_button_bg": "#0052FF",
+    "description": "The word health refers to a state of complete emotional, mental, and physical well-being. Healthcare exists to help people stay well in these key areas of life.",
+    "price": 290
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/N231gvF/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#92D1FF",
+    "card_bg": "#D9E5FF",
+    "text_button_bg": "#0052FF",
+    "description": "The word health refers to a state of complete emotional, mental, and physical well-being. Healthcare exists to help people stay well in these key areas of life.",
+    "price": 290
+  },
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/52RQrhY/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#FFC3C5",
+    "card_bg": "#FFE3E5",
+    "text_button_bg": "#FF444A",
+    "description": "Education is the process or act of learning or teaching, i.e., acquiring or imparting knowledge. It includes the preparation of children for mature life. The term’s meaning can vary, depending on its context, who says it, and where. However, in most cases, it also involves developing people’s powers of reasoning and judgment.",
+    "price": 250
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/9bm0bXg/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#D4ECC1",
+    "card_bg": "#EBF6E2",
+    "text_button_bg": "#79C23F",
+    "description": "Clothes or clothing are the collective terms used to describe the different types of materials worn on the body. It is a human characteristic to protect our bodies from cold, rain and other climate change or weather conditions.",
+    "price": 299
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/Bwbmqwh/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "#FDD2C4",
+    "card_bg": "#FEEAE2",
+    "text_button_bg": "#F87147",
+    "description": "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion. Plants, which convert solar energy to food by photosynthesis, are the primary food source.",
+    "price": 428
+  }
+]
